@@ -3,9 +3,9 @@ import { createVuetify } from 'vuetify'
 
 export default createVuetify({
   theme: {
-    defaultTheme: 'dark', // auto darkmode
+    defaultTheme: 'dark' // auto darkmode
   },
   icons: {
-    defaultSet: 'mdi',
-  },
+    defaultSet: 'mdi'
+  }
 })
