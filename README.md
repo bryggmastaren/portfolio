@@ -1,41 +1,39 @@
-# vue-project
+LÅTTA
 
-This template should help get you started developing with Vue 3 in Vite.
+This is my personal portfolio, built with Vue 3 and Vite.
 
-## Recommended IDE Setup
+The portfolio combines frontend development, design and photography, with a focus on accessibility, interaction and visual storytelling.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Built With
 
-## Customize configuration
+* Vue 3
+* Vite
+* JavaScript
+* HTML
+* CSS
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+Project Setup
 
-## Project Setup
-
-```sh
 npm install
-```
 
-### Compile and Hot-Reload for Development
+Compile and Hot-Reload for Development
 
-```sh
 npm run dev
-```
 
-### Compile and Minify for Production
+Compile and Minify for Production
 
-```sh
 npm run build
-```
 
-### Lint with [ESLint](https://eslint.org/)
+Lint with ESLint
 
-```sh
 npm run lint
-```
-## selectdate
-const selectedDate = ref(new Date().toISOString().split('T')[0]) 
 
-//toISOtring koncerterar datum till sträng i formatet "YYYY-MM-DDTHH:mm:ss.sssZ"
+About
 
-// "date" innehåller datum och tid, så split T gör så att tiden separeras. och [0] gör att datumet är array0 och tid array1
+I’m a frontend developer with a background in TV production and visual storytelling.
+
+I enjoy combining code and design to create websites that feel thoughtful, accessible and fun to use.
+
+Portfolio
+
+The site includes my frontend projects, photography and other creative work.
