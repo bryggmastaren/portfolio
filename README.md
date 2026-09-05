@@ -1,4 +1,4 @@
-LÅTTA
+# LÅTTA
 
 This is my personal portfolio, built with Vue 3 and Vite.
 
